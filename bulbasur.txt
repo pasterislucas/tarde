@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 este es el pokmeon inicial tipo planta de solo los primeros juegos de pokemon
+=======
+este es el pokmeon inicial tipo planta de los juegos de pokemon
+>>>>>>> 43a4d2a160848632094f45e721222cad315cee67
